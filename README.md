@@ -1,4 +1,4 @@
-# React: E-Commerce by Dam Nguyet Anh
+# React project: E-Commerce by Dam Nguyet Anh
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
