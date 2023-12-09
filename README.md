@@ -1,6 +1,8 @@
-# React project: E-Commerce by Dam Nguyet Anh
+# ReactJS project: E-Commerce
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Source assets: https://drive.google.com/file/d/1Nw2Rm88hJ3zowWQAzqwoL0O6a0vA41Nf/view
 
 ## Available Scripts
 
